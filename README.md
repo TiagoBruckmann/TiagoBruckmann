@@ -1,6 +1,8 @@
 ###  :wave: &nbsp;What's up, guys! 🚀
 
+<!--
 I'm a Software Engineer passionated about science and technology.
+-->
 
 <a href="mailto:tiagobruckmann@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-050d24?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/tiago-andr%C3%A9-br%C3%BCckmann-2448781a3//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-050d24?style=flat&logo=linkedin"></a>
