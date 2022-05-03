@@ -1,4 +1,4 @@
-###  :wave: &nbsp;E ai, galera! Eu sou o Tiago Bruckmann 🚀
+###  :wave: &nbsp;E ai, galera! Eu sou o Tiago Brückmann 🚀
 
 <!--
 I'm a Software Engineer passionated about science and technology.
