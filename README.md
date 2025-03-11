@@ -1,4 +1,4 @@
-###  :wave: &nbsp;Helo folks! I'm Tiago Brückmann 🚀
+###  :wave: &nbsp;Hello folks! I'm Tiago Brückmann 🚀
 
 <!--
 I'm a Software Engineer passionated about science and technology.
