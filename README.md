@@ -30,10 +30,10 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about technolog
 
 :bust_in_silhouette: Connect with me
 
-<a href="https://www.linkedin.com/in/tiago-bruckmann/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-<a href="https://stackoverflow.com/users/15343609/tiago-bruckmann" target="_blank"><i class="fa-brands fa-stack-overflow"></i></a>
-<a href="mailto:tiagobruckmann@gmail.com" target="_blank"><i class="fa-solid fa-envelope"></i></a>
-<a href="https://tiagobruckmann.dev/" target="_blank"><i class="fa-solid fa-at"></i></a>
+<a href="https://www.linkedin.com/in/tiago-bruckmann/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-050d24?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/15343609/tiago-bruckmann">![Stack Exchange questions](https://img.shields.io/stackexchange/:stackexchangesite/t/:query)</a>
+<a href="mailto:tiagobruckmann@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-050d24?style=flat&logo=gmail"></a>
+<a href="https://tiagobruckmann.dev/">![Website](https://img.shields.io/website)</a>
 
 
 :muscle: Always open to collaborations and new challenges! Get in touch! :point_up_2:
