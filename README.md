@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about technolog
 
 :computer: Technologies and Languages
 
-<p align="center">
+<p align="start">
   <a href="https://github.com/TiagoBruckmann">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TiagoBruckmann&layout=compact&exclude_lang=&theme=algolia" />
   </a>
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about technolog
 
 📊 GitHub Stats
 
-<p align="center">
+<p align="start">
   <a href="https://github.com/TiagoBruckmann">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TiagoBruckmann&show_icons=true&theme=algolia&include_all_commits=true&count_private=false" />
   </a>
@@ -30,10 +30,10 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about technolog
 
 :bust_in_silhouette: Connect with me
 
-<a href="https://www.linkedin.com/in/tiago-bruckmann/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-050d24?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/15343609/tiago-bruckmann">![Stack Exchange questions](https://img.shields.io/stackexchange/:stackexchangesite/t/:query)</a>
-<a href="mailto:tiagobruckmann@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-050d24?style=flat&logo=gmail"></a>
-<a href="https://tiagobruckmann.dev/">![Website](https://img.shields.io/website)</a>
+<a href="https://www.linkedin.com/in/tiago-bruckmann/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-050d24?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/15343609/tiago-bruckmann" target="_blank">![Stack Exchange questions]</a>
+<a href="mailto:tiagobruckmann@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-050d24?style=flat&logo=gmail"></a>
+<a href="https://tiagobruckmann.dev/" target="_blank">![Website]</a>
 
 
 :muscle: Always open to collaborations and new challenges! Get in touch! :point_up_2:
